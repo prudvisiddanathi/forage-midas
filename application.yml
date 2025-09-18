@@ -1,0 +1,2 @@
+# Kafka topic used in the app/tests
+general.kafka-topic=test-topic
